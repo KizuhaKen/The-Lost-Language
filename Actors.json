@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Male Neko","characterIndex":0,"characterName":"Neko","classId":1,"equips":[2],"faceIndex":0,"faceName":"Pink Neko","traits":[],"initialLevel":1,"maxLevel":99,"name":"Neko","nickname":"Neko","note":"","profile":""},
+{"id":2,"battlerName":"Female Neko","characterIndex":1,"characterName":"Neko","classId":1,"equips":[0],"faceIndex":1,"faceName":"Pink Neko","traits":[],"initialLevel":1,"maxLevel":99,"name":"Neki","nickname":"Neki","note":"","profile":""}
+]
